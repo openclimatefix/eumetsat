@@ -1,0 +1,9 @@
+name: eumetsat
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - urllib3
+  - requests
+  - beautifulsoup4
